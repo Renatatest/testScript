@@ -11,6 +11,9 @@
     <properties>
         <maven.compiler.source>15</maven.compiler.source>
         <maven.compiler.target>15</maven.compiler.target>
+        <browser>chrome</browser>
+        <chromeDriverBinary>src/test/resources/chromedriver.exe</chromeDriverBinary>
+
     </properties>
 <dependencies>
 
@@ -29,4 +32,7 @@
     </dependency>
 
 </dependencies>
+
+
+
 </project>
