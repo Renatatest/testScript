@@ -9,7 +9,10 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.util.concurrent.TimeUnit;
-
+/**
+ * @author Renata L. on 26/07/2021
+ * @project testeScript
+ */
 public class MagazineTest {
      //sem BDD
     

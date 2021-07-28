@@ -8,6 +8,10 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.util.concurrent.TimeUnit;
 
+/**
+ * @author Renata L. on 26/07/2021
+ * @project testeScript
+ */
 public class LoginTest {
     @Test
     public void testLoginSistema(){
