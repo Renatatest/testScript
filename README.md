@@ -1,5 +1,5 @@
 # testScript
-O projeto "testScript" foi desenvolvido como forma de treinamento e testes automatizados em sistemas web open source na linguagem Java e encontra-se em atualização semanal. 
+O projeto "testScript": 
 
 Principais caracteristicas:
 - Projeto na linguagem Java (Maven project);
