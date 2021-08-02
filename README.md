@@ -9,3 +9,5 @@ Principais caracteristicas:
 - Ferramenta  Rest Assured para teste API Rest;
 - Evidências dos testes na pasta /reports;
 - Integração com Jenkins.
+
+- Teste documentação API com Postman - https://documenter.getpostman.com/view/14437490/TzsfnQvG
